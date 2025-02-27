@@ -226,6 +226,15 @@
         margin-top: 2.5rem;
         font-size: 1rem;
     }
+    
+    #navbar__img {
+    width: 40px; /* Adjust as needed */
+    height: 40px; /* Keeps it square */
+    object-fit: cover; /* Ensures the image fills the space without distortion */
+    border-radius: 50%; /* Makes it circular if needed */
+    margin-right: 0.75rem;
+}
+
 
 }
 
