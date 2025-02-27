@@ -656,7 +656,7 @@
 
     #footer__logo {
         margin-bottom: 1.5rem;
-        margin-top: 5.5rem;
+        margin-top: 0.5rem;
     }
 
     .website__right {
@@ -855,6 +855,7 @@
 
     .bascal_main__content ul {
         font-size: 1.25rem;
+        margin-bottom: 2.5rem;
     }
 
     .bascal_main__content h4 {
