@@ -220,7 +220,6 @@
     
 }
 
-
 @media screen and (max-width: 390px){
     .navbar__container {
         display: flex;
@@ -258,7 +257,7 @@
     }
 
     #navbar__logo{
-        padding-left: 10px;     
+        padding-left: 20px;     
     }
 
     .navbar__toggle .bar{
@@ -283,7 +282,7 @@
 
     #mobile-menu{
         position: absolute;
-        top: 15%;
+        top: 20%;
         right: 5%;
         transform: translate(5%, 20%);
     }
