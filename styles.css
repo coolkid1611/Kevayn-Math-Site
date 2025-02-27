@@ -257,7 +257,10 @@
     }
 
     #navbar__logo{
-        padding-left: 20px;     
+        padding-left: 20px;
+        font-size: 1.8rem; /* Adjusted font size */
+        margin-left: 10px; /* Add left margin */
+        margin-top: 10px; /* Add top margin */
     }
 
     .navbar__toggle .bar{
