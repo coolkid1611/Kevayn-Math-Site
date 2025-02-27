@@ -224,12 +224,12 @@
 @media screen and (max-width: 390px) {
     .navbar__container {
         margin-top: 2.5rem;
-        font-size: 1.25rem;
+        font-size: 1rem;
     }
 
     #navbar__img {
-        width: 10px; /* Adjust as needed */
-        height: 10px; /* Keeps it square */
+        width: 20px; /* Adjust as needed */
+        height: 20px; /* Keeps it square */
         object-fit: cover; /* Ensures the image fills the space without distortion */
         border-radius: 50%; /* Makes it circular if needed */
         margin-right: 0.75rem;
