@@ -228,8 +228,8 @@
     }
 
     #navbar__img {
-        width: 30px; /* Adjust as needed */
-        height: 30px; /* Keeps it square */
+        width: 10px; /* Adjust as needed */
+        height: 10px; /* Keeps it square */
         object-fit: cover; /* Ensures the image fills the space without distortion */
         border-radius: 50%; /* Makes it circular if needed */
         margin-right: 0.75rem;
