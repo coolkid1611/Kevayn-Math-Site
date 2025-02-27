@@ -224,6 +224,14 @@
     #navbar__logo {
      font-size: 2.5rem; 
     }
+
+    #navbar__img {
+    width: 60px; /* Adjust as needed */
+    height: 60px; /* Keeps it square */
+    object-fit: cover; /* Ensures the image fills the space without distortion */
+    border-radius: 50%; /* Makes it circular if needed */
+    margin-right: 0.55rem;
+    }
 }
     
 
