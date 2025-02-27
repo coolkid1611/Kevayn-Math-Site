@@ -224,7 +224,7 @@
 @media screen and (max-width: 390px) {
     .navbar__container {
         margin-top: 2.5rem;
-        font-size: 0.75rem;
+        font-size: 0.5rem;
     }
     
     #navbar__img {
@@ -233,7 +233,11 @@
     object-fit: cover; /* Ensures the image fills the space without distortion */
     border-radius: 50%; /* Makes it circular if needed */
     margin-right: 0.75rem;
-}
+    }
+
+    #navbar__logo{
+        padding-left: 20px;     
+    }
 
 
 }
